@@ -1,0 +1,38 @@
+<script>
+    console.log('[Fila/Queue]')
+
+    var fila = [
+        'scripts.js',
+        'style.css',
+        'imagem.png'
+    ]
+
+    class Queue {
+        constructor() {
+            this.data = []
+        }
+
+
+        print() {
+            console.log(this.data)
+        }
+
+        enqueue(val) {
+            this.data.push(val)
+        }
+
+        dequeue() {
+            this.data.shift()
+        }
+    }
+
+    var requests = new Queue()
+    requests.enqueue('scripts.js')
+    requests.print()
+    requests.dequeue()
+    requests.enqueue('style.css')
+    requests.enqueue('imagem.png')
+    requests.enqueue('doguinho.png')
+    requests.print()
+
+</script>
