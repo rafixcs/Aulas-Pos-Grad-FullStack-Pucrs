@@ -1,0 +1,11 @@
+
+*** Tema: maneiras de lidar com o fluxo de uma aplicação
+
+    * Segunda Maneira: feedback
+        * Testes A/B
+            *Artigos:
+                Conceitos mais voltados para marketing digital:
+                    https://rockcontent.com/br/blog/testes-ab/#:~:text=Testes%20A%2FB%20s%C3%A3o%20experimentos,como%20outros%20m%C3%A9tricas%20de%20sucesso.
+                Conceitos mais voltados para programação:
+                    https://www.oracle.com/br/cx/marketing/what-is-ab-testing/#:~:text=O%20teste%20A%2FB%2C%20tamb%C3%A9m,delas%20atrai%20mais%20visitantes%2Fespectadores.
+            
