@@ -1,0 +1,9 @@
+* Mob programming:
+	- Padrões de mob programming
+	https://github.com/michaelkeeling/mob-programming-patterns/blob/master/README.md
+
+* Modelação de arquitetura de software:
+	Site que propoe um método de modelar gráficamente a estrutura do software desenvolvido:	https://c4model.com/
+	Architecture Decision Record: https://adr.github.io/
+
+	
